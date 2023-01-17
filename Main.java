@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Charaf my 4th commit");
+        System.out.println("Line added: 01");
+        System.out.println("Line added: 02");
     }
 }
